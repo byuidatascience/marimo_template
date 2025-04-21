@@ -1,0 +1,6 @@
+polars
+polars-xdt
+lets-plot
+plotnine
+plotly
+scikit-learn

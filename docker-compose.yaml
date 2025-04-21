@@ -1,0 +1,12 @@
+services:
+  marimo:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    container_name: marimo_app
+    cpus: 0.5
+    mem_limit: 1024m
+    ports:
+      - "8080:8080"
+    volumes:
+      - ".:/app:rw"
