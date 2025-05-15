@@ -1,0 +1,15 @@
+[tool.marimo.datasources]
+auto_discover_schemas = true   # Default: true
+auto_discover_tables = "auto"   # Default: "auto"
+auto_discover_columns = "auto"  # Default: false
+
+[tool.marimo.display]
+default_width = "full"
+cell_output = "below"
+theme = "system"
+
+[tool.marimo.runtime]
+default_sql_output = "native"
+auto_instantiate = false
+on_cell_change = "lazy"
+

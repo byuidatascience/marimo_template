@@ -1,8 +1,14 @@
 # marimo Data Science Notebooks
 
+## Installation
+
+```bash
+pip install "marimo[recommended]"
+```
+
 ## Developing notebooks
 
-In general, we recommend creating notebooks in the `notebook` folder. Upload your data used within your notebooks into the `notebooks/public` folder.
+In general, we recommend creating notebooks in the `reports` folder. Upload your data used within your notebooks into the `reports/public` folder.
 
 ## Including data or assets
 
