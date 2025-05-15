@@ -14,6 +14,9 @@ In general, we recommend creating notebooks in the `reports` folder. Upload your
 
 To include data or assets in your notebooks, add them to the `public/` directory.
 
+## Terminal and marimo
+
+In your terminal run `marimimo edit [path_to_py_file]` and marimo will start running.
 
 ## VS code and marimo
 
@@ -26,7 +29,6 @@ You can start the viewer (as edit) to use the app.
 We recommend popping the in vs code browser into your computer's web browser. The marimo team recommends Chrome for the best use.
 
 You can now work within the marimo space in your browser.  Saving your file will update the `.py` file in VS code.
-
 
 ## Docker and marimo
 
