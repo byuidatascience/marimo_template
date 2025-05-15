@@ -16,7 +16,7 @@ To include data or assets in your notebooks, add them to the `public/` directory
 
 ## Terminal and marimo
 
-In your terminal run `marimimo edit [path_to_py_file]` and marimo will start running.
+In your terminal run `marimo edit` or `marimimo edit [path_to_py_file]` and marimo will start running.
 
 ## VS code and marimo
 
